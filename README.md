@@ -1,4 +1,4 @@
-# SIGSPATIAL 2023. Revisiting Mobility Modeling with Graph: A Graph Transformer Model for Next Point-of-Interest Recommendation
+# [SIGSPATIAL 2023] Revisiting Mobility Modeling with Graph: A Graph Transformer Model for Next Point-of-Interest Recommendation
 ![image](framework.png)
 An implementation of MobGT (Revisiting Mobility Modeling with Graph: A Graph Transformer Model for Next Point-of-Interest Recommendation)
 
