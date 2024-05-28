@@ -1,6 +1,16 @@
-# MobGT
-
+# SIGSPATIAL 2023. Revisiting Mobility Modeling with Graph: A Graph Transformer Model for Next Point-of-Interest Recommendation
+![image](framework.png)
 An implementation of MobGT (Revisiting Mobility Modeling with Graph: A Graph Transformer Model for Next Point-of-Interest Recommendation)
+
+## Citation
+```bash
+@inproceedings{xu2023revisiting,
+  title={Revisiting Mobility Modeling with Graph: A Graph Transformer Model for Next Point-of-Interest Recommendation},
+  author={Xu, Xiaohang and Suzumura, Toyotaro and Yong, Jiawei and Hanai, Masatoshi and Yang, Chuang and Kanezashi, Hiroki and Jiang, Renhe and Fukushima, Shintaro},
+  booktitle={Proceedings of the 31th International Conference on Advances in Geographic Information Systems},
+  year={2023}
+}
+```
 
 ## Installation steps
 
@@ -43,7 +53,7 @@ This project has been organized using 3 main folders.
 
 > NOTE: The commands for training and evaluation of each model are shown below. In order to illustrate how the output is, an example for one single epoch (epoch=1) is shown. However, the training files has as default greater number of epochs. Thus the results for more epochs will not be the same as the ones shown below.
 
-## Training and evaluation of MobGT (STGTrans)
+## Training and evaluation of MobGT
 
 In general the command to be executed is the following
 
